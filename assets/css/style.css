@@ -273,6 +273,13 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        height: 150px;
+        clear: both;
+        padding: 0;
+    }
+
     hr {display: none;}
 }
 
